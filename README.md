@@ -2,15 +2,13 @@
 
 Glad to see you here!
 
-I’m a full-stack web developer who has turned years of freelancing into a full-time career. Being a full-stack allows me
-to not only develop client-facing apps and websites but also develop them with cutting-edge backend support.
+I’m a Softare developer. Im very into Java, Python and It-security.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing light
-yet robust systems, distributed yet synchronized and beautiful, but practical.
+Its amazing, what we can do in IT and my journey has just started. 
 
 ## 💫About Me
 
-🌱 I’m currently learning Python  
+🌱 I’m currently learning Python and It-security  
 💬 Ask me about IT Security    
 ⚡ Fun fact:   
 📫 How to reach me, hit the mail
