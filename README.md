@@ -2,7 +2,7 @@
 
 Glad to see you here!
 
-I’m a Softare developer. Im very into Java, Python and It-security.
+I’m a Software developer. Im very into Java, Python and It-security.
 
 Its amazing, what we can do in IT and my journey has just started. 
 
