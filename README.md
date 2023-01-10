@@ -10,7 +10,7 @@ Its amazing, what we can do in IT and my journey has just started.
 
 🌱 I’m currently learning Python and It-security  
 💬 Ask me about IT Security    
-⚡ Fun fact:   
+⚡ Fun fact: As a teenager I blasted my first computer switched the power button from 220V to 110V. Good times:-)   
 📫 How to reach me, hit the mail
 
 ## 💻Tech Stack
